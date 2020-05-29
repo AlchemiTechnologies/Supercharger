@@ -2,6 +2,12 @@
 
 This repository contains some of the most common drivers and supporting files for downloading. 
 
+### Drivers
+
+[CH340G](https://github.com/AlchemiTechnologies/Supercharger/raw/master/CH341SER.zip)
+
+[PuTTY](https://github.com/AlchemiTechnologies/Supercharger/raw/master/putty-64bit-0.73-installer.msi)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
