@@ -4,9 +4,9 @@ This repository contains some of the most common drivers and supporting files fo
 
 ### Drivers
 
-[CH340G](https://github.com/AlchemiTechnologies/Supercharger/raw/master/CH341SER.zip)
+[CH340G](https://github.com/AlchemiTechnologies/Supercharger/raw/master/CH341SER.zip) - Driver for communicating with the Supercharger via USB. 
 
-[PuTTY](https://github.com/AlchemiTechnologies/Supercharger/raw/master/putty-64bit-0.73-installer.msi)
+[PuTTY](https://github.com/AlchemiTechnologies/Supercharger/raw/master/putty-64bit-0.73-installer.msi) - Serial monitoring client
 
 ### Markdown
 
