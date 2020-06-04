@@ -2,6 +2,8 @@
 
 This repository contains some of the most common drivers and supporting files for downloading. 
 
+This repository is for public use. Private branches for customers and OEM orders are not made public. 
+
 ### Drivers
 
 [CH340G](https://github.com/AlchemiTechnologies/Supercharger/raw/master/CH341SER.zip) - Driver for communicating with the Supercharger via USB. 
