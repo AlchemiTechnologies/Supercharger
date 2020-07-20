@@ -6,9 +6,11 @@ This repository is for public use. Private branches for customers and OEM orders
 
 ### Drivers
 
-[CH340G](https://github.com/AlchemiTechnologies/Supercharger/raw/master/CH341SER.zip) - Driver for communicating with the Supercharger via USB. 
+[USB-Serial](https://github.com/AlchemiTechnologies/Supercharger/blob/master/USB_DRIVER.zip?raw=true) - Driver for communicating with Alchemi hardware via USB. 
 
-[PuTTY](https://github.com/AlchemiTechnologies/Supercharger/raw/master/putty-64bit-0.73-installer.msi) - Serial monitoring client
+[Alchemi Autoloader™](https://github.com/AlchemiTechnologies/Supercharger/blob/master/Alchemi%20Autoloader.exe?raw=true) - The firmware flasher for Alchemi products.
+
+[PuTTY](https://github.com/AlchemiTechnologies/Supercharger/raw/master/putty-64bit-0.73-installer.msi) - Serial monitoring client to communicate and save monitoring info. 
 
 ### Markdown
 
